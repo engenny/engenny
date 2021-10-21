@@ -2,10 +2,8 @@
 
 - 🔭 Estagiária de Frontend
 - 🌱 Estudando flutter/Vue.js
-- 🕹  Gamer raiz
 - 🎨 Pintora/Desenhista há 12 anos
 - 🏹 Futura desenvolvedora frontend UI/UX Pleno. 
-
 
 <div align="center">
   <a href="https://github.com/engenny">
