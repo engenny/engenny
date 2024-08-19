@@ -4,7 +4,7 @@
 
 ### Olá! eu sou a Bia mais conhecida como engenny! 👋
 
-- 🔭 Desenvolvedora Jr
+- 🔭 Desenvolvedora Front end
 - 🌱 Estudando Vue.js 3
 - 🎨 Pintora/Desenhista há 12 anos
 - 🏹 Futura desenvolvedora frontend UI/UX Pleno. 
